@@ -1,5 +1,177 @@
 body {
-	background-color: #7FFFD4;
+	background-color:#7FFFD4;
+	font-family:'Pacifico', cursive;
+	width: 100%;
+	margin: auto;
+}
+
+#container{
+	width: 100%;
+	margin: auto;
+
 
 
 }
+
+
+h1{
+height: 150px;
+/*width: 550px;*/
+width: 100%;
+
+background-color: #DCDCDC;
+font-size: 48pt;
+align-content: center;
+text-align: center;
+/*margin-left: 400px;*/
+border-top: 7px solid white;
+border-bottom: 7px solid white;
+color: white;
+padding-top: 20px;
+}
+
+img{
+height: 200px;
+width: 200px;
+align-content: center;
+border:5px solid #DCDCDC;
+margin-left: 205px;
+
+}
+
+
+
+
+
+#randomNumber{
+	font-size: 36pt;
+	color:white;
+	height: 150px;
+	width: 500px;
+	background-color: #DCDCDC;
+	border: 7px solid white;
+	margin-left: 450px;
+	text-align: center;
+	margin-bottom: 50px;
+	margin-top: 10PX;
+
+
+}
+
+#wins{
+	font-size: 36pt;
+	color:white;
+	height: 150px;
+	width: 250px;
+	background-color: #DCDCDC;
+	border: 7px solid white;
+	text-align: center;
+	float: right;
+	/*margin-left: 50px;*/
+	margin-right: 355px;
+	margin-bottom: 20px;
+	margin-top: 20PX;
+
+
+}
+
+#losses{
+	font-size: 36pt;
+	color:white;
+	height: 150px;
+	width: 250px;
+	background-color: #DCDCDC;
+	border: 7px solid white;
+	text-align: center;
+	float: right;
+	margin-bottom: 20px;
+	margin-top: 20PX;
+
+
+}
+
+
+.instructions{
+	clear: both;
+	overflow: auto;
+	font-size: 24pt;
+	color:white;
+	height: 800px;
+	width:850px;
+	background-color: #DCDCDC;
+	margin-left: 290px;
+	font-family: 'Shadows Into Light', cursive;
+	font-weight: bolder;
+	text-align: center;
+	border:10px solid white;
+	/*float: right;	*/
+
+}
+
+#total{
+	font-size: 36pt;
+	color:white;
+	height: 150px;
+	width: 250px;
+	background-color: #DCDCDC;
+	border: 7px solid white;
+	text-align: center;
+	float: right;
+	margin-bottom: 20px;
+	margin-top: 20PX;
+
+
+}
+
+#score{
+	font-size: 36pt;
+	color:white;
+	height: 150px;
+	width: 250px;
+	background-color: #DCDCDC;
+	border: 7px solid white;
+	text-align: center;
+	float: right;
+	margin-bottom: 20px;
+	margin-top: 20PX;
+
+
+
+}
+
+
+footer{
+
+clear: both;
+overflow: auto;
+height: 100px;
+/*width: 550px;*/
+width: 100%;
+
+background-color: #DCDCDC;
+font-size: 48pt;
+align-content: center;
+text-align: center;
+/*margin-left: 400px;*/
+border-top: 7px solid white;
+border-bottom: 7px solid white;
+color: white;
+padding-top: 20px;
+margin-top: 20px;
+
+
+}
+
+/*button{
+	height: 200px;
+	width: 200px;
+
+
+
+}*/
+
+
+
+
+
+
